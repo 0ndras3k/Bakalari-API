@@ -9,12 +9,12 @@
     "noImplicitAny": true,
     "strictNullChecks": true,
     "strictFunctionTypes": true,
-    "alwaysStrict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true,
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true
+    //"alwaysStrict": true,
+    //"noUnusedLocals": true,
+    //"noUnusedParameters": true,
+    //"noFallthroughCasesInSwitch": true,
+    "esModuleInterop": true
+    //"forceConsistentCasingInFileNames": true
   },
   "exclude": ["node_modules", "dist"]
 }
